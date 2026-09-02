@@ -1,0 +1,3 @@
+# The C file is generated from the pure Python sources at build time, and the
+# extension module is platform specific. Neither belongs in a distribution.
+global-exclude *.c *.so *.pyd
